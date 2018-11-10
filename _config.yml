@@ -32,6 +32,7 @@ paginate_path: /page:num/
 disqus:
   shortname: e-orz-github
 github_username: e-orz
+google_analytics: UA-129072067-1
 
 # Site Author
 author:
